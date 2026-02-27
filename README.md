@@ -12,4 +12,4 @@ What Computer Scientists Do and Why It Matters:
 
 Computer scientists build systems that turn data into useful tools. In this project, I created a dashboard that allows users to quickly filter and view animal shelter data instead of manually sorting through records.
 For a company like Grazioso Salvare, this kind of system improves efficiency and supports better decision-making. It shows how well-structured code and databases can directly impact how an organization operates.
-This project helped me see how technical design choices affect real-world usability — not just whether the code runs, but whether it’s practical and helpful.
+This project helped me see how technical design choices affect real-world usability, not just whether the code runs, but whether it’s practical and helpful.
